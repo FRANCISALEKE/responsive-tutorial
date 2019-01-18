@@ -11,5 +11,7 @@ html, body {
   height: 100%;
   width: 100%;
   margin: auto;
-  background: url(https://images.pexels.com/photos/1769331/pexels-photo-1769331.jpeg)
+  background: url(https://images.pexels.com/photos/1769331/pexels-photo-1769331.jpeg);
+  display: table;
+  top: 0;
 }
